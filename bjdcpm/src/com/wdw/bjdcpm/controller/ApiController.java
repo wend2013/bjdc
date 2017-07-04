@@ -4,7 +4,7 @@
 package com.wdw.bjdcpm.controller;
 
 /**
- * @author john
+ * @author wendongwei
  * 
  */
 public class ApiController {
